@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = louis.duquennoy@gmail.com
+	name = Louis Duquennoy
